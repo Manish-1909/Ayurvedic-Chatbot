@@ -1,6 +1,6 @@
 AYUR-BOT: Ayurvedic Medicine Recommendation Chatbot
 
-AYUCARE is an intelligent chatbot designed to recommend Ayurvedic remedies based on user queries. It leverages the power of Llama 2, FAISS (CPU) for vector similarity search, and Chainlit for a user-friendly interface. The knowledge base is built from a comprehensive Ayurvedic encyclopedia, making it a reliable assistant for traditional health solutions.
+AYUR-BOT is an intelligent chatbot designed to recommend Ayurvedic remedies based on user queries. It leverages the power of Llama 2, FAISS (CPU) for vector similarity search, and Chainlit for a user-friendly interface. The knowledge base is built from a comprehensive Ayurvedic encyclopedia, making it a reliable assistant for traditional health solutions.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
